@@ -50,7 +50,7 @@ pip install -r requirements.txt
 ### 4️⃣ Создать .env файл
 
 ```env
-BOT_TOKEN=8622329879:AAHy7S_Pgisa4MQ3AcmQ_-brUeHEL7PJWUE
+BOT_TOKEN=ваш_токен
 ```
 
 ### 5️⃣ Запуск
