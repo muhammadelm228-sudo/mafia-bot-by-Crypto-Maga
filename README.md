@@ -30,7 +30,7 @@ Telegram-бот для игры в Мафию, написанный на **aiogr
 ### 1️⃣ Клонировать репозиторий
 
 ```bash
-git clone https://github.com/muhammadelm228-sudo/mafia-telegram-bot.git
+git clone https://github.com/ваш_юзернейм/mafia-telegram-bot.git
 cd mafia-telegram-bot
 ```
 
